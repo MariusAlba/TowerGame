@@ -1,0 +1,6 @@
+c:\users\marius\documents\visual studio 2015\Projects\TowerGame\TowerGame\bin\Debug\TowerGame.exe.config
+c:\users\marius\documents\visual studio 2015\Projects\TowerGame\TowerGame\obj\Debug\TowerGame.csprojResolveAssemblyReference.cache
+c:\users\marius\documents\visual studio 2015\Projects\TowerGame\TowerGame\bin\Debug\TowerGame.exe
+c:\users\marius\documents\visual studio 2015\Projects\TowerGame\TowerGame\bin\Debug\TowerGame.pdb
+c:\users\marius\documents\visual studio 2015\Projects\TowerGame\TowerGame\obj\Debug\TowerGame.exe
+c:\users\marius\documents\visual studio 2015\Projects\TowerGame\TowerGame\obj\Debug\TowerGame.pdb
